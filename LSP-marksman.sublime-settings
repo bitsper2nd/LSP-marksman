@@ -3,5 +3,4 @@
         "${storage_path}/LSP-marksman/bin/marksman"
     ],
     "selector": "text.html.markdown",
-    "initializationOptions": {},
 }
